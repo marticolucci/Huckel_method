@@ -1,0 +1,13 @@
+LIST OF INPUTS
+
+'cyclic'                 ! system_type (linear or cyclic) 
+'atom+bond'                   ! Type of dimerization (atom, bond, atom+bond, none)
+3                        ! number of unit cells (n_cells)
+2                        ! number of atoms for unit cell (atom_cell)
+6                        ! number of pi electrons
+0 1                      ! vector containing alpha values (length equal to the number of atoms for unit cell)
+-1                       ! beta
+-0.9                     ! beta_plus
+-1.1                     ! beta_minus
+5                        ! n vectors (nvec)
+1,2,3,4,5                ! k vec(1:nvec)  
