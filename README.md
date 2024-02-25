@@ -28,7 +28,7 @@ This program aims to build the Hamiltonian matrix (Huckel Hamiltonian) for the s
    ./huckel
 
   # Usage
-  1. Insert the parameters of the simulation in the input file, following the example ginven in `huckel.in` file
+  1. Insert the parameters of the simulation in the input file, following the example given in `huckel.in` file
   2. Compile and execute the program, as explained in Installation section
   3. The program will initiate the calculations, providing the output file (huckel.out) containing the Huckel matrix, the eigenvectors and the eigenvalues for the chosen system and the files (eigenvectors.dat and eigenvalues.dat) for the plots.
 
