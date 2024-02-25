@@ -10,7 +10,7 @@ This program aims to build the Hamiltonian matrix (Huckel Hamiltonian) for the s
 - LAPACK library
 
 # Folder Structure
-1. Input file `huckel.dat`
+1. Input file `huckel.in`
 2. Main program `huckel.f90`
 3. Executable file `huckel`
 4. Output file `huckel.dat` generated after the execution of the program
