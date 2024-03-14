@@ -10,11 +10,11 @@ This program aims to build the Hamiltonian matrix (Huckel Hamiltonian) for the s
 - LAPACK library
 
 # Folder Structure
-1. Input file `huckel.in`
-2. Main program `huckel.f90`
-3. Executable file `huckel`
-4. Output file `huckel.dat` generated after the execution of the program
-5. `eigenvectors.dat` and `eigenvalues.dat` files containing the eigenvectors and the eigenvalues in a format suitable for plotting with gnuplot
+1. Main program `huckel.f90`
+2. Input file `huckel.in`
+3. Output file `huckel.out`, generated after the execution of the program
+4. Executable file `huckel`
+6. `eigenvectors.dat` and `eigenvalues.dat` files containing the eigenvectors and the eigenvalues in a format suitable for plotting with gnuplot
 
 # Installation
 1. Clone the repository or downlnad the source code
