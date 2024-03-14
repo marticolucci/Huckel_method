@@ -3,7 +3,7 @@
 This FORTRAN 90 code is developed for the computation of the eigenvalues and eigenvectors of polyenes with Huckel method.
 The Huckel method is a semi-empirical approach that provides a simplified yet insightful understanding of the electronic structure and properties of conjugated organic molecules. It neglects the σ-electrons and considers only the π-orbitals that are involved in the delocalized electron cloud. By doing so, the computational complexity is significantly reduced. The Hückel method employs the secular determinant approach to solve the Schrödinger equation for the molecular orbitals in the π-system. 
 
-This program aims to build the Hamiltonian matrix (Huckel Hamiltonian) for the system specified in the input file and diagonalize it, in order to obtain the aigenvalues and the eigenvectors.
+This program aims to build the Hamiltonian matrix (Huckel Hamiltonian) for the system specified in the input file and diagonalize it, in order to obtain the eigenvalues and the eigenvectors.
 
 # System Requirements
 - Fortran 90 Compiler
